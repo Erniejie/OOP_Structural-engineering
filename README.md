@@ -1,1 +1,1 @@
-# OOP_Structural-engineering
+# Object Oriented Programming_Python_Structural-engineering_Artand Approximation_Example 2
